@@ -1,0 +1,19 @@
+{
+  "name": "kyrene",
+  "version": "1.0.0",
+  "description": "A test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahahah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameskdoherty/kyrener.git"
+  },
+  "author": "James K Doherty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameskdoherty/kyrener/issues"
+  },
+  "homepage": "https://github.com/jameskdoherty/kyrener#readme"
+}
